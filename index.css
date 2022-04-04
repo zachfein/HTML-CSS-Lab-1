@@ -1,0 +1,44 @@
+body{
+    font-size: 24px;
+    background-color: orange;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+img{
+    height: 20vh;
+    width: 20vh;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+p{
+    color: white;
+    margin-bottom: 5px;
+}
+
+button{
+    color: orange;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+button:hover{
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    text-shadow: 0 0 white;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+h1{
+    margin-bottom: 5px;
+    margin-top: 1px;
+}
+
+h3{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
